@@ -27,3 +27,20 @@ Shadcn UI Crash Course
 #3 Badges, Buttons & Avatars
 #4 Skeleton Components
 #5 colour Themes
+
+### Codewithguillaume
+
+Get Started with NextJS 14 & @shadcn UI
+`shadcnui-dashboard`
+
+#1 Get Started
+#2 
+#3
+#4
+#5
+#6
+#7
+#8
+#9
+#10
+#11
