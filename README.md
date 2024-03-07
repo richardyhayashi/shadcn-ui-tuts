@@ -12,3 +12,14 @@ Next JS forms with Shadcn UI
 `$ npx shadcn-ui@latest init`
 
 `$ npx shadcn-ui@latest add <component>`
+
+### Net Ninja
+
+Shadcn UI Crash Course
+`ninja-recipes`
+
+#1 Introduction & Setup
+#2 
+#3 
+#4
+#5
