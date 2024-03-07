@@ -24,6 +24,6 @@ Shadcn UI Crash Course
 
 #1 Introduction & Setup
 #2 Card Components
-#3 
-#4
+#3 Badges, Buttons & Avatars
+#4 Skeleton Components
 #5
