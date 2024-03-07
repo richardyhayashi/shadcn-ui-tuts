@@ -34,7 +34,7 @@ Get Started with NextJS 14 & @shadcn UI
 `shadcnui-dashboard`
 
 #1 Get Started
-#2 
+#2 Sidebar
 #3
 #4
 #5
