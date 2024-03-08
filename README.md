@@ -33,12 +33,16 @@ Shadcn UI Crash Course
 Get Started with NextJS 14 & @shadcn UI
 `shadcnui-dashboard`
 
+`$ yarn add lucide-react`
+
+`$ yarn add @nivo/core <component>`
+
 #1 Get Started
 #2 Sidebar
 #3 Menu
 #4 Commandbar
 #5 Dropdown Menu
-#6 
+#6 Charts
 #7 
 #8 
 #9 

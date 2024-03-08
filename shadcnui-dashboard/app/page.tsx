@@ -1,10 +1,13 @@
-import { Button } from "@/components/ui/button";
+import General from "@/components/Cards/General";
 
-export default function Home() {
+const HomePage = () => {
   return (
     <div>
-      <h1>Home Page</h1>
-      <Button variant="outline">Click Me!</Button>
+      <div className="grid grid-cols-2">
+        <General />
+      </div>
     </div>
   );
 }
+
+export default HomePage;
