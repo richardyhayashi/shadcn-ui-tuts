@@ -36,7 +36,7 @@ Get Started with NextJS 14 & @shadcn UI
 #1 Get Started
 #2 Sidebar
 #3 Menu
-#4 
+#4 Commandbar
 #5 
 #6 
 #7 
