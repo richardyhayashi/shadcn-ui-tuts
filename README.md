@@ -35,12 +35,12 @@ Get Started with NextJS 14 & @shadcn UI
 
 #1 Get Started
 #2 Sidebar
-#3
-#4
-#5
-#6
-#7
-#8
-#9
-#10
-#11
+#3 Menu
+#4 
+#5 
+#6 
+#7 
+#8 
+#9 
+#10 
+#11 
